@@ -19,28 +19,6 @@
 
 <br>
 
-### Installation:
-***
-Make sure you have Node.js and npm installed.
-
-1. Clone or Download the repository
-
-	`$ git clone https://github.com/yashAgarwal41/Real-time-Chat-app.git`
-  
-    `$ cd Real-time-Chat-app`
-	
-2. After downloading the repository, open the folder and open terminal in that folder.
-
-3. Now install dependencies by typing in the terminal
-
-	`$ npm install`
-	
-4. Now Start the application
-
-	`$ node server.js`
-	
-Your app should now be running on [localhost:3000](http://localhost:3000/).
-
 ### Extra Features:
 * * *
 - Rich text Editor
@@ -56,4 +34,4 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 ### Support or Contact:
 
-Having trouble with Pages? Feel free to send me a mail at yashagarwal94144@gmail.com
+Having trouble with Pages? Feel free to send me a mail at yashkhokhar99@gmail.com
